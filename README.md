@@ -1,2 +1,2 @@
 # ultradoser
-Ultra Doser a Programm To Dos  Attack
+Ultra Doser a Program To Dos  Attack
